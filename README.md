@@ -1,5 +1,7 @@
 # xylophone
+- This is my new Flutter Project. This is a musical app where in which if you tap the screen different musical sounds can be heard (its basically a Xylophone)
 
+Mentor : Angela Yu
 <!-- A new Flutter project. -->
 <!-- 
 ## Getting Started
